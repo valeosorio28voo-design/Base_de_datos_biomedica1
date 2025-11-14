@@ -6,7 +6,7 @@ Este proyecto contiene bases de datos utilizadas en el curso de **Ingeniería Bi
 - Aylin García
 
 📂 Archivos incluidos
-Base de datos Valentina
+**Base de datos Valentina**
 - **appointments.csv** Esta base de datos recopila información relacionada con las citas médicas programadas por los pacientes en una clínica.
 Cada registro representa una cita única, donde se detallan los datos del paciente, el médico, la fecha y el estado de la atención.
 
@@ -37,7 +37,7 @@ ca: Número de vasos principales coloreados por fluoroscopia.
 thal: Resultado del test de talio.
 target: Diagnóstico final (1 = presenta enfermedad cardíaca, 0 = sin enfermedad).
 
-Base de datos Aylin
+**Base de datos Aylin**
 **Patients Data ( Used for Heart Disease Prediction )** Esta base de datos recopila información sobre pacientes con el objetivo de predecir o analizar el riesgo de enfermedades cardíacas.
 Contiene variables relacionadas con salud general, condiciones médicas, hábitos de vida y antecedentes clínicos, lo que permite construir modelos de predicción o estudios epidemiológicos sobre factores de riesgo cardiovascular.
 Estructura de los datos
@@ -122,9 +122,3 @@ Inconclusive
 ⚙️ Descripción del proyecto
 El objetivo del proyecto es centralizar datos clínicos en un repositorio colaborativo, utilizando Git y GitHub para control de versiones.  
 Cada integrante trabaja en una rama independiente valentina y aylin y luego se integran los cambios en la rama principal main.
-
-## 🧠 Cómo usarlo
-1. Clona el repositorio:
-   ---bash
-   git clone https://github.com/valeosorio28voo-design/Base_de_datos_biomedica1.git
-
