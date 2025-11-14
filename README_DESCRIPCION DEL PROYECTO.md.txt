@@ -3,7 +3,7 @@ Base de Datos Biomédica 🧬
 Este proyecto contiene bases de datos utilizadas en el curso de **Ingeniería Biomédica**, para análisis y gestión de información médica.
 👩‍💻 Integrantes del equipo
 - Valentina Osorio  
-- Aylin [Apellido]
+- Aylin García
 
 📂 Archivos incluidos
 Base de datos Valentina
@@ -120,10 +120,11 @@ Abnormal
 Inconclusive
 
 ⚙️ Descripción del proyecto
-El objetivo del proyecto es centralizar datos clínicos en un repositorio colaborativo, utilizando **Git y GitHub** para control de versiones.  
-Cada integrante trabaja en una rama independiente (`valentina` y `aylin`) y luego se integran los cambios en la rama principal (`main`).
+El objetivo del proyecto es centralizar datos clínicos en un repositorio colaborativo, utilizando Git y GitHub para control de versiones.  
+Cada integrante trabaja en una rama independiente valentina y aylin y luego se integran los cambios en la rama principal main.
 
 ## 🧠 Cómo usarlo
 1. Clona el repositorio:
-   ```bash
+   ---bash
    git clone https://github.com/valeosorio28voo-design/Base_de_datos_biomedica1.git
+
